@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "cust1";
+    src: url("/fonts/font-1.woff2");
+}
+@font-face {
+    font-family: "cust2";
+    src: url("/fonts/font-2.woff2");
+}
+@font-face {
+    font-family: "cust3";
+    src: url("/fonts/font-3.woff2");
+}
+@font-face {
+    font-family: "cust4";
+    src: url("/fonts/font-4.woff2");
+}
